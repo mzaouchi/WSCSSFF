@@ -1,0 +1,99 @@
+*{
+    font-family: fantasy;
+    background-color: rgb(152, 20, 95);
+}
+nav{
+    margin-left: 60%;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+a{
+    font-size: 27px;
+    color: cadetblue;
+    font-weight: bold;
+    text-decoration: none;
+    margin-left: 37px;
+}
+
+a:hover{
+    color: thistle;
+    text-decoration: line-through;
+    font-size: 32px;
+}
+
+
+h2{
+    text-decoration: underline;
+    margin-left: 5%;
+    font-size: 34px;
+    color: darkred;
+}
+
+#home{
+    text-align: center;
+}
+
+#taswirawa7da{
+    border-radius: 16px;
+    width: 199px;
+    height: 277px;
+}
+
+.parRahma{
+    display: inline-block;
+    width: 37%;
+    margin-left: 23px;
+}
+
+#divRahma{
+    text-align: center;
+}
+
+table{
+    width: 700px;
+    margin: auto;    
+}
+
+table, th, td{
+    border: 1px solid salmon; 
+    border-collapse: collapse;
+}
+
+form{
+    margin: auto;
+    width: 22%;
+}
+
+input{
+    margin-left: 59px;
+    margin-bottom: 19px;
+}
+
+#wajdi{
+    margin-right: 24px; 
+    margin-left: 35px;
+}
+
+button{
+    font-size: 40px;
+    width: 204px;
+    height: 62px;
+    font-weight: bold;
+    border-radius: 26px;
+    background-color: goldenrod;
+    color: rebeccapurple;
+    border-color: chartreuse;
+    margin-left: 34px;
+
+}
+
+button:hover{
+    background-color: rebeccapurple ;
+    color: goldenrod;
+}
+
+footer{
+    text-align: center;
+    font-size: 80px;
+}
